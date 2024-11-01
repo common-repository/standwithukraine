@@ -1,0 +1,110 @@
+# Copyright (C) 2022 Ukraine
+# This file is distributed under the same license as Stand With Ukraine package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stand With Ukraine 0.1.0\n"
+"POT-Creation-Date: 2022-03-05 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "Stand With Ukraine"
+msgstr "Поддержать Украину"
+
+msgid "Inform visitors of your website that you support Ukraine."
+msgstr ""
+"Информируйте посетителей вашего сайта о том, что вы поддерживаете Украину."
+
+msgid "Tell them how they can help - donate to Ukrainian Army and government."
+msgstr ""
+"Расскажите им, как они могут помочь - пожертвовав средства украинской армии "
+"и правительству."
+
+msgid "Message formats"
+msgstr "Формат сообщения"
+
+msgid "Message styles"
+msgstr "Стиль сообщения"
+
+msgid "We #StandWithUkraine"
+msgstr "Мы #ПоддерживаемУкраину"
+
+msgid "Learn how you can help too!"
+msgstr "Узнайте как вы можете помочь!"
+
+msgid "#Stand&shy;With&shy;Ukraine"
+msgstr "#Поддерживаем&shy;Украину"
+
+msgid ""
+"We don't know how long the war will last. But what we do know is that we "
+"can't stand aside and watch."
+msgstr ""
+"Мы не знаем, как долго продлится война. Но мы наверняка знаем то, что мы не "
+"можем стоять в стороне и смотреть."
+
+msgid ""
+"The fastest way you can help too is to support Ukraine financially. The "
+"National Bank of Ukraine (NBU) has opened a multi-currency account for that "
+"purpose."
+msgstr ""
+"Самый быстрый способ помочь – это финансовая поддержка Украины. Для этого "
+"Национальный банк Украины (НБУ) открыл мультивалютный счет."
+
+msgid "All money will be donated to the Armed Forces of Ukraine."
+msgstr "Все деньги будут пожертвованы Вооруженным Силам Украины."
+
+msgid ""
+"This account accepts donations in US, Canadian and Australian dollars, "
+"euros, British pounds, Swiss francs, yuan and yen."
+msgstr ""
+"Этот счет принимает пожертвования в долларах США, Канады и Австралии, евро, "
+"британских фунтах, швейцарских франках, юанях и иенах."
+
+msgid "Also accepting cryptocurrency donations – the fastest way to help."
+msgstr ""
+"Также пожертвования принимаются в криптовалюте – самый быстрый способ "
+"помочь."
+
+msgid "see official statement here:"
+msgstr "смотрите официальное заявление здесь:"
+
+msgid ""
+"If you want to volunteer in the army of Ukraine and help with deeds, then "
+"here are specific instructions how to do this"
+msgstr ""
+"Если вы хотите стать добровольцем в армии Украины и помогать делами, то вот "
+"конкретные инструкции, как это сделать"
+
+msgid "Spread the word!"
+msgstr "Расскажите об этом другим!"
+
+msgid "Sticky line (page top)"
+msgstr "Строка на всю длинну (вверху)"
+
+msgid "Sticky line (page bottom)"
+msgstr "Строка на всю длинну (внизу)"
+
+msgid "Notice (bottom left)"
+msgstr "Кнопка (внизу слева)"
+
+msgid "Notice (bottom right)"
+msgstr "Кнопка (внизу справа)"
+
+msgid "Black on white"
+msgstr "Черно-белый"
+
+msgid "White on black"
+msgstr "Бело-черный"
+
+msgid "National colours"
+msgstr "Национальные цвета"
+
+msgid "Learn more"
+msgstr "Подробнее"

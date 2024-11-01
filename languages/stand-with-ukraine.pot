@@ -1,0 +1,81 @@
+# Copyright (C) 2022 Ukraine
+# This file is distributed under the same license as Stand With Ukraine package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Stand With Ukraine 0.1.0\n"
+"POT-Creation-Date: 2022-03-05 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Stand With Ukraine"
+msgstr ""
+
+msgid "Inform visitors of your website that you support Ukraine."
+msgstr ""
+
+msgid "Tell them how they can help - donate to Ukrainian Army and government."
+msgstr ""
+
+msgid "Message formats"
+msgstr ""
+
+msgid "Message styles"
+msgstr ""
+
+msgid "We #StandWithUkraine"
+msgstr ""
+
+msgid "Learn how you can help too!"
+msgstr ""
+
+msgid "#Stand&shy;With&shy;Ukraine"
+msgstr ""
+
+msgid "We don't know how long the war will last. But what we do know is that we can't stand aside and watch."
+msgstr ""
+
+msgid "The fastest way you can help too is to support Ukraine financially. The National Bank of Ukraine (NBU) has opened a multi-currency account for that purpose."
+msgstr ""
+
+msgid "All money will be donated to the Armed Forces of Ukraine."
+msgstr ""
+
+msgid "This account accepts donations in US, Canadian and Australian dollars, euros, British pounds, Swiss francs, yuan and yen."
+msgstr ""
+
+msgid "Also accepting cryptocurrency donations – the fastest way to help."
+msgstr ""
+
+msgid "see official statement here:"
+msgstr ""
+
+msgid "If you want to volunteer in the army of Ukraine and help with deeds, then here are specific instructions how to do this"
+msgstr ""
+
+msgid "Spread the word!"
+msgstr ""
+
+msgid "Sticky line (page top)"
+msgstr ""
+
+msgid "Sticky line (page bottom)"
+msgstr ""
+
+msgid "Notice (bottom left)",
+msgstr ""
+
+msgid "Notice (bottom right)"
+msgstr ""
+
+msgid "Black on white"
+msgstr ""
+
+msgid "White on black"
+msgstr ""
+
+msgid "National colours"
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
